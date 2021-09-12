@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "stockmarketforecastingenv\\Scripts\\python.exe",
+    "restructuredtext.languageServer.disabled": true,
+    "restructuredtext.confPath": ""
+}
